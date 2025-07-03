@@ -2,7 +2,15 @@
 
 template<typename T>
 LinkedList<T>::LinkedList()
-    : head(nullptr) {}
+    : head(nullptr)
+{}
+
+// Llamamos a Clear aquí para liberar memoria automáticamente
+// cuando la lista deja de existir
+template<typename T>
+LinkedList<T>::~LinkedList() {
+    Clear();
+}
 
 template<typename T>
 void LinkedList<T>::push_front(const T& value) {
@@ -30,6 +38,8 @@ void LinkedList<T>::Print() {
     std::cout << std::endl;
 }
 
+// Implementación de la función Clear,
+// se encarga de liberar toda la memoria de los nodos de la lista
 template<typename T>
 void LinkedList<T>::Clear() {
     Node* current = head;

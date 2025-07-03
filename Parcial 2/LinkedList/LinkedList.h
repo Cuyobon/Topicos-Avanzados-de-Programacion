@@ -1,4 +1,4 @@
-// LinkedList.h
+s// LinkedList.h
 #ifndef LINKEDLIST_H
 #define LINKEDLIST_H
 
@@ -17,6 +17,8 @@ private:
 
 public:
     LinkedList();
+    ~LinkedList(); // ? Este destructor es el que ejecuta Clear()
+
     void push_front(const T& value);
     void pop_front();
     void Print();
