@@ -1,0 +1,54 @@
+﻿  Animal.cpp
+  BinarySearchTree.cpp
+C:\Users\angel\Downloads\resume_template\Topicos_De_Actualizacion_2025B\TopicosAvanzadosDeProgramacion\TopicosAvanzadosDeProgramacion\BinarySearchTree.cpp(11,13): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  Chihuahua.cpp
+  DatabaseInterface.cpp
+  DirectXWrapper.cpp
+  DoubleLinkedList.cpp
+C:\Users\angel\Downloads\resume_template\Topicos_De_Actualizacion_2025B\TopicosAvanzadosDeProgramacion\TopicosAvanzadosDeProgramacion\DoubleLinkedList.h(143,29): error C2187: error de sintaxis: "&" inesperado aquí
+  DynamicArray.cpp
+  (compilando archivo de origen "DoubleLinkedList.cpp")
+  
+C:\Users\angel\Downloads\resume_template\Topicos_De_Actualizacion_2025B\TopicosAvanzadosDeProgramacion\TopicosAvanzadosDeProgramacion\DoubleLinkedList.h(144,1): error C2244: 'DoubleLinkedList<T>::Find': no se puede hacer coincidir la definición de función con una declaración existente
+  (compilando archivo de origen "DoubleLinkedList.cpp")
+      C:\Users\angel\Downloads\resume_template\Topicos_De_Actualizacion_2025B\TopicosAvanzadosDeProgramacion\TopicosAvanzadosDeProgramacion\DoubleLinkedList.h(143,52):
+      vea la declaración de 'DoubleLinkedList<T>::Find'
+      C:\Users\angel\Downloads\resume_template\Topicos_De_Actualizacion_2025B\TopicosAvanzadosDeProgramacion\TopicosAvanzadosDeProgramacion\DoubleLinkedList.h(144,1):
+      definición
+      C:\Users\angel\Downloads\resume_template\Topicos_De_Actualizacion_2025B\TopicosAvanzadosDeProgramacion\TopicosAvanzadosDeProgramacion\DoubleLinkedList.h(144,1):
+      'DoubleLinkedList DoubleLinkedList<T>::Find(T)'
+      C:\Users\angel\Downloads\resume_template\Topicos_De_Actualizacion_2025B\TopicosAvanzadosDeProgramacion\TopicosAvanzadosDeProgramacion\DoubleLinkedList.h(144,1):
+      declaraciones existentes
+      C:\Users\angel\Downloads\resume_template\Topicos_De_Actualizacion_2025B\TopicosAvanzadosDeProgramacion\TopicosAvanzadosDeProgramacion\DoubleLinkedList.h(144,1):
+      'DoubleLinkedList<T>::Node<T> &DoubleLinkedList<T>::Find(T)'
+  
+C:\Users\angel\Downloads\resume_template\Topicos_De_Actualizacion_2025B\TopicosAvanzadosDeProgramacion\TopicosAvanzadosDeProgramacion\DoubleLinkedList.h(175,29): error C2187: error de sintaxis: "&" inesperado aquí
+  (compilando archivo de origen "DoubleLinkedList.cpp")
+  
+C:\Users\angel\Downloads\resume_template\Topicos_De_Actualizacion_2025B\TopicosAvanzadosDeProgramacion\TopicosAvanzadosDeProgramacion\DoubleLinkedList.h(176,1): error C2244: 'DoubleLinkedList<T>::FindV2': no se puede hacer coincidir la definición de función con una declaración existente
+  (compilando archivo de origen "DoubleLinkedList.cpp")
+      C:\Users\angel\Downloads\resume_template\Topicos_De_Actualizacion_2025B\TopicosAvanzadosDeProgramacion\TopicosAvanzadosDeProgramacion\DoubleLinkedList.h(175,52):
+      vea la declaración de 'DoubleLinkedList<T>::FindV2'
+      C:\Users\angel\Downloads\resume_template\Topicos_De_Actualizacion_2025B\TopicosAvanzadosDeProgramacion\TopicosAvanzadosDeProgramacion\DoubleLinkedList.h(176,1):
+      definición
+      C:\Users\angel\Downloads\resume_template\Topicos_De_Actualizacion_2025B\TopicosAvanzadosDeProgramacion\TopicosAvanzadosDeProgramacion\DoubleLinkedList.h(176,1):
+      'DoubleLinkedList DoubleLinkedList<T>::FindV2(T)'
+      C:\Users\angel\Downloads\resume_template\Topicos_De_Actualizacion_2025B\TopicosAvanzadosDeProgramacion\TopicosAvanzadosDeProgramacion\DoubleLinkedList.h(176,1):
+      declaraciones existentes
+      C:\Users\angel\Downloads\resume_template\Topicos_De_Actualizacion_2025B\TopicosAvanzadosDeProgramacion\TopicosAvanzadosDeProgramacion\DoubleLinkedList.h(176,1):
+      'DoubleLinkedList<T>::Node<T> &DoubleLinkedList<T>::FindV2(T)'
+  
+  Ejercicio1.cpp
+  Fungi.cpp
+  Gato.cpp
+  LinkedList.cpp
+  Main.cpp
+  OpenGLWrapper.cpp
+  Perro.cpp
+  Queue.cpp
+  SentinelLinkedList.cpp
+  SQLDatabaseConnector.cpp
+  SQLLiteDatabaseConnector.cpp
+  Stack.cpp
+  VirtualPura.cpp
+  Generando código...
