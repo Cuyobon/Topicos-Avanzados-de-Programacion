@@ -56,4 +56,4 @@ T LQueue<T>::Dequeue()
 {
     return data.PopFront();
 }
-#pragma once
+

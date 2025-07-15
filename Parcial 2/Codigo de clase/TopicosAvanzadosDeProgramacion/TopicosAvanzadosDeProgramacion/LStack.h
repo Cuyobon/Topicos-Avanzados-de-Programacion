@@ -68,4 +68,3 @@ public:
         return count;
     }
 };
-#pragma once

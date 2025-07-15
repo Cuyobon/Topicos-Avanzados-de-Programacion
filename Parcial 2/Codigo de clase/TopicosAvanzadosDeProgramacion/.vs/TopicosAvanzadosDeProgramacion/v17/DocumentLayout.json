@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\angel\\Documents\\GitHub\\Topicos-Avanzados-de-Programacion\\Parcial 2\\Topicos_De_Actualizacion_2025B\\TopicosAvanzadosDeProgramacion\\",
+  "WorkspaceRootPath": "C:\\Users\\angel\\Documents\\GitHub\\Topicos-Avanzados-de-Programacion\\Parcial 2\\Codigo de clase\\TopicosAvanzadosDeProgramacion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7ED95435-17CF-4C0F-86E9-63BF119AA737}|TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion.vcxproj|C:\\Users\\angel\\Documents\\GitHub\\Topicos-Avanzados-de-Programacion\\Parcial 2\\Topicos_De_Actualizacion_2025B\\TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion\\SentinelLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7ED95435-17CF-4C0F-86E9-63BF119AA737}|TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion.vcxproj|solutionrelative:TopicosAvanzadosDeProgramacion\\SentinelLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ED95435-17CF-4C0F-86E9-63BF119AA737}|TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion.vcxproj|C:\\Users\\angel\\Documents\\GitHub\\Topicos-Avanzados-de-Programacion\\Parcial 2\\Topicos_De_Actualizacion_2025B\\TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion\\LQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7ED95435-17CF-4C0F-86E9-63BF119AA737}|TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion.vcxproj|solutionrelative:TopicosAvanzadosDeProgramacion\\LQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ED95435-17CF-4C0F-86E9-63BF119AA737}|TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion.vcxproj|C:\\Users\\angel\\Documents\\GitHub\\Topicos-Avanzados-de-Programacion\\Parcial 2\\Topicos_De_Actualizacion_2025B\\TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion\\LStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7ED95435-17CF-4C0F-86E9-63BF119AA737}|TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion.vcxproj|C:\\Users\\angel\\Documents\\GitHub\\Topicos-Avanzados-de-Programacion\\Parcial 2\\Codigo de clase\\TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion\\LStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7ED95435-17CF-4C0F-86E9-63BF119AA737}|TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion.vcxproj|solutionrelative:TopicosAvanzadosDeProgramacion\\LStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7ED95435-17CF-4C0F-86E9-63BF119AA737}|TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion.vcxproj|C:\\Users\\angel\\Documents\\GitHub\\Topicos-Avanzados-de-Programacion\\Parcial 2\\Topicos_De_Actualizacion_2025B\\TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion\\DoubleLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7ED95435-17CF-4C0F-86E9-63BF119AA737}|TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion.vcxproj|C:\\Users\\angel\\Documents\\GitHub\\Topicos-Avanzados-de-Programacion\\Parcial 2\\Codigo de clase\\TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion\\LQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ED95435-17CF-4C0F-86E9-63BF119AA737}|TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion.vcxproj|solutionrelative:TopicosAvanzadosDeProgramacion\\LQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED95435-17CF-4C0F-86E9-63BF119AA737}|TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion.vcxproj|C:\\Users\\angel\\Documents\\GitHub\\Topicos-Avanzados-de-Programacion\\Parcial 2\\Codigo de clase\\TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion\\SentinelLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ED95435-17CF-4C0F-86E9-63BF119AA737}|TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion.vcxproj|solutionrelative:TopicosAvanzadosDeProgramacion\\SentinelLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED95435-17CF-4C0F-86E9-63BF119AA737}|TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion.vcxproj|C:\\Users\\angel\\Documents\\GitHub\\Topicos-Avanzados-de-Programacion\\Parcial 2\\Codigo de clase\\TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion\\DoubleLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7ED95435-17CF-4C0F-86E9-63BF119AA737}|TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion.vcxproj|solutionrelative:TopicosAvanzadosDeProgramacion\\DoubleLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7ED95435-17CF-4C0F-86E9-63BF119AA737}|TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion.vcxproj|C:\\Users\\angel\\Documents\\GitHub\\Topicos-Avanzados-de-Programacion\\Parcial 2\\Topicos_De_Actualizacion_2025B\\TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7ED95435-17CF-4C0F-86E9-63BF119AA737}|TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion.vcxproj|C:\\Users\\angel\\Documents\\GitHub\\Topicos-Avanzados-de-Programacion\\Parcial 2\\Codigo de clase\\TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7ED95435-17CF-4C0F-86E9-63BF119AA737}|TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion.vcxproj|solutionrelative:TopicosAvanzadosDeProgramacion\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -30,15 +30,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "DoubleLinkedList.h",
-              "DocumentMoniker": "C:\\Users\\angel\\Documents\\GitHub\\Topicos-Avanzados-de-Programacion\\Parcial 2\\Topicos_De_Actualizacion_2025B\\TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion\\DoubleLinkedList.h",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\GitHub\\Topicos-Avanzados-de-Programacion\\Parcial 2\\Codigo de clase\\TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion\\DoubleLinkedList.h",
               "RelativeDocumentMoniker": "TopicosAvanzadosDeProgramacion\\DoubleLinkedList.h",
-              "ToolTip": "C:\\Users\\angel\\Documents\\GitHub\\Topicos-Avanzados-de-Programacion\\Parcial 2\\Topicos_De_Actualizacion_2025B\\TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion\\DoubleLinkedList.h",
+              "ToolTip": "C:\\Users\\angel\\Documents\\GitHub\\Topicos-Avanzados-de-Programacion\\Parcial 2\\Codigo de clase\\TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion\\DoubleLinkedList.h",
               "RelativeToolTip": "TopicosAvanzadosDeProgramacion\\DoubleLinkedList.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAO8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -46,23 +46,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "LStack.h",
-              "DocumentMoniker": "C:\\Users\\angel\\Documents\\GitHub\\Topicos-Avanzados-de-Programacion\\Parcial 2\\Topicos_De_Actualizacion_2025B\\TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion\\LStack.h",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\GitHub\\Topicos-Avanzados-de-Programacion\\Parcial 2\\Codigo de clase\\TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion\\LStack.h",
               "RelativeDocumentMoniker": "TopicosAvanzadosDeProgramacion\\LStack.h",
-              "ToolTip": "C:\\Users\\angel\\Documents\\GitHub\\Topicos-Avanzados-de-Programacion\\Parcial 2\\Topicos_De_Actualizacion_2025B\\TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion\\LStack.h",
+              "ToolTip": "C:\\Users\\angel\\Documents\\GitHub\\Topicos-Avanzados-de-Programacion\\Parcial 2\\Codigo de clase\\TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion\\LStack.h",
               "RelativeToolTip": "TopicosAvanzadosDeProgramacion\\LStack.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-15T15:03:24.422Z"
+              "WhenOpened": "2025-07-15T15:03:24.422Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\angel\\Documents\\GitHub\\Topicos-Avanzados-de-Programacion\\Parcial 2\\Topicos_De_Actualizacion_2025B\\TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion\\Main.cpp",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\GitHub\\Topicos-Avanzados-de-Programacion\\Parcial 2\\Codigo de clase\\TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion\\Main.cpp",
               "RelativeDocumentMoniker": "TopicosAvanzadosDeProgramacion\\Main.cpp",
-              "ToolTip": "C:\\Users\\angel\\Documents\\GitHub\\Topicos-Avanzados-de-Programacion\\Parcial 2\\Topicos_De_Actualizacion_2025B\\TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion\\Main.cpp",
+              "ToolTip": "C:\\Users\\angel\\Documents\\GitHub\\Topicos-Avanzados-de-Programacion\\Parcial 2\\Codigo de clase\\TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion\\Main.cpp",
               "RelativeToolTip": "TopicosAvanzadosDeProgramacion\\Main.cpp",
               "ViewState": "AgIAAKkEAAAAAAAAAAAYwNMEAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -72,23 +73,24 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "LQueue.h",
-              "DocumentMoniker": "C:\\Users\\angel\\Documents\\GitHub\\Topicos-Avanzados-de-Programacion\\Parcial 2\\Topicos_De_Actualizacion_2025B\\TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion\\LQueue.h",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\GitHub\\Topicos-Avanzados-de-Programacion\\Parcial 2\\Codigo de clase\\TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion\\LQueue.h",
               "RelativeDocumentMoniker": "TopicosAvanzadosDeProgramacion\\LQueue.h",
-              "ToolTip": "C:\\Users\\angel\\Documents\\GitHub\\Topicos-Avanzados-de-Programacion\\Parcial 2\\Topicos_De_Actualizacion_2025B\\TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion\\LQueue.h",
+              "ToolTip": "C:\\Users\\angel\\Documents\\GitHub\\Topicos-Avanzados-de-Programacion\\Parcial 2\\Codigo de clase\\TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion\\LQueue.h",
               "RelativeToolTip": "TopicosAvanzadosDeProgramacion\\LQueue.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-15T14:54:45.644Z"
+              "WhenOpened": "2025-07-15T14:54:45.644Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SentinelLinkedList.h",
-              "DocumentMoniker": "C:\\Users\\angel\\Documents\\GitHub\\Topicos-Avanzados-de-Programacion\\Parcial 2\\Topicos_De_Actualizacion_2025B\\TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion\\SentinelLinkedList.h",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\GitHub\\Topicos-Avanzados-de-Programacion\\Parcial 2\\Codigo de clase\\TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion\\SentinelLinkedList.h",
               "RelativeDocumentMoniker": "TopicosAvanzadosDeProgramacion\\SentinelLinkedList.h",
-              "ToolTip": "C:\\Users\\angel\\Documents\\GitHub\\Topicos-Avanzados-de-Programacion\\Parcial 2\\Topicos_De_Actualizacion_2025B\\TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion\\SentinelLinkedList.h",
+              "ToolTip": "C:\\Users\\angel\\Documents\\GitHub\\Topicos-Avanzados-de-Programacion\\Parcial 2\\Codigo de clase\\TopicosAvanzadosDeProgramacion\\TopicosAvanzadosDeProgramacion\\SentinelLinkedList.h",
               "RelativeToolTip": "TopicosAvanzadosDeProgramacion\\SentinelLinkedList.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-15T14:50:13.055Z",
               "EditorCaption": ""
